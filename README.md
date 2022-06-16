@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Vishal1297/MetaCart?style=plastic)](https://github.com/Vishal1297/MetaCart/issues)
 [![GitHub License](https://img.shields.io/github/license/Vishal1297/MetaCart)](https://github.com/Vishal1297/MetaCart/blob/master/LICENSE)
 
-### A Servlet JSP Shopping Application To Buy Products. :octocat:
+### A Servlet JSP Shopping Application To Buy Products. :octocat :
 
 ## Client Side
 
